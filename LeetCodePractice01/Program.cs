@@ -2,4 +2,9 @@
 using LeetCodePractice01;
 
 Console.WriteLine("Hello, World!");
+
+Console.WriteLine("TwoSum.TestTwoSumm:");
 TwoSum.TestTwoSumm();
+
+Console.WriteLine("AddTwoNumbers.TestAddTwoNumberss:");
+AddTwoNumbers.TestAddTwoNumberss();
